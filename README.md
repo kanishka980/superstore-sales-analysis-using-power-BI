@@ -1,9 +1,7 @@
 # superstore-sales-analysis-using-power-BI
-Sure, here's a README file template for your GitHub repository:
-
----
-
-# Superstore Sales Analysis using Power BI
+--
+--
+--
 
 Welcome to the Superstore Sales Analysis project! This repository contains the files and resources for analyzing sales data from the Superstore using Power BI. In this project, we'll delve into the Orders table to extract insights and visualize key metrics.
 
